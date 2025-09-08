@@ -1,4 +1,4 @@
-x = 20
+x = 40
 if x > 10:
     print("x is greater than 10")
 else:
